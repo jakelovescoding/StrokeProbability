@@ -1,6 +1,6 @@
 import streamlit as st
 import torch
-from test import predict
+from predict import predict
 
 def divide_arrays(array1, array2):
     result = []
